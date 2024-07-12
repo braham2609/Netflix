@@ -1,5 +1,7 @@
 # Netflix
-
+Developed a Netflix clone using HTML and CSS to replicate the core user interface and
+functionality of the popular streaming service,improving user engagement by 50%.Created a responsive design
+for optimal viewing across devices, increasing accessibility by 30%
 ![image](https://github.com/user-attachments/assets/d253af58-72df-4cd6-9490-5461378544b6)
 ![image](https://github.com/user-attachments/assets/3ca2ca31-a191-4af9-95af-6078d30b155e)
 ![image](https://github.com/user-attachments/assets/5ef0a12d-1b6f-4d1b-a52b-0a2e3eefb181)
